@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Suvankar Nayak</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Suvanka[...]</h1>
 <h3 align="center">Software Engineer Backend • Distributed Systems</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - ➤   I'm a **Backend Engineer** passionate about designing **scalable**, **reliable**, and **high-performance systems** that solve real-world problems.
-- ➤   I enjoy building **production-ready backends**, exploring **distributed systems**, **system design**, and **AI-powered applications**, while continuously learning modern engineering practices.
+- ➤   I enjoy building **production-ready backends**, exploring **distributed systems**, **system design**, and **AI-powered applications**, while continuously learning modern engineering practi[...]
 
 
 ## 🧠 My Focus Areas
@@ -25,12 +25,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/suvankar11223">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suvankar11223&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="suvankar11223's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suvankar11223&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="suvankar11223's GitH[...]" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=suvankar11223&theme=merko&hide_border=true&cache_seconds=86400" alt="suvankar11223's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=suvankar11223&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Suvankar Nayak's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=suvankar11223&theme=merko&radius=10" alt="suvankar11223's Activity Graph" />
